@@ -11,3 +11,21 @@
 	path = src/dependencies/robot_navigation
 	url = https://github.com/locusrobotics/robot_navigation.git
 	branch = melodic
+[submodule "src/dependencies/dynamic_reconfigure"]
+	path = src/dependencies/dynamic_reconfigure
+	url = https://github.com/ros/dynamic_reconfigure.git
+[submodule "src/dependencies/ddynamic_reconfigure"]
+	path = src/dependencies/ddynamic_reconfigure
+	url = https://github.com/pal-robotics/ddynamic_reconfigure.git
+[submodule "src/dependencies/navigation"]
+	path = src/dependencies/navigation
+	url = https://github.com/ros-planning/navigation.git
+[submodule "src/dependencies/geometry2"]
+	path = src/dependencies/geometry2
+	url = https://github.com/ros/geometry2.git
+[submodule "src/dependencies/navigation_msgs"]
+	path = src/dependencies/navigation_msgs
+	url = https://github.com/ros-planning/navigation_msgs.git
+[submodule "src/dependencies/teleop_twist_keyboard"]
+	path = src/dependencies/teleop_twist_keyboard
+	url = https://github.com/ros-teleop/teleop_twist_keyboard.git
